@@ -1,0 +1,27 @@
+.navbar .nav{
+    display: inline-block;
+}
+
+.navbar {
+    font-size: 18px;
+    text-align: center;
+    position:  relative;
+    background-color: azure;
+    padding: 8px;
+}
+
+.navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+    border: solid 1px teal;
+    padding: 3px 5px;
+}
+
+.navbar a:hover {
+    background-color: cadetblue;
+}
+
+.title{
+    position: absolute;
+    left: 8px;
+}
